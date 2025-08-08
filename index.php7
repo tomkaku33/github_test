@@ -3,7 +3,8 @@
  * @file 大家好
  * 哈哈哈哈
  */
-
+include_once "/filer/doc/config7/init.php7";
+print_r($GLOBALS);
 
 
 ?>
