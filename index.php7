@@ -6,5 +6,7 @@
 include_once "/filer/doc/config7/init.php7";
 print_r($GLOBALS);
 
-
+for($i = 0; $i < 5; $i++) {
+    echo "Hello, World! $i\n";
+}   
 ?>
